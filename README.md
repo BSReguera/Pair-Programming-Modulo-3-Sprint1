@@ -36,6 +36,6 @@ Preguntas y Respuestas
 Si tienes preguntas sobre el contenido de este repositorio o sobre las tecnologías cubiertas, no dudes en contactarnos.
 
 Agradecimientos
-Queremos agradecer a Beatriz Sánchez Reguera e Inés Arano Aguirregomezcorta por su realziación y a los profesores por su dedicación y apoyo en el aprendizaje de programación.
+Queremos agradecer a Beatriz Sánchez Reguera e Inés Arano Aguirregomezcorta por su realiziación y a los profesores por su dedicación y apoyo en el aprendizaje de programación.
 
 ¡Gracias por visitar nuestro repositorio!
