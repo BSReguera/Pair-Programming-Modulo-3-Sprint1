@@ -33,8 +33,8 @@ Lecciones y ejercicios:
 - pairprogramming-modulo3-leccion04.ipynb   
 - pairprogramming-modulo3-leccion05.ipynb
 - pairprogramming-modulo3-leccion06.ipynb
-- datos_pair4.csv (resultado de los ejercicios de la lección4)
-- datos_pair5.csv (resultado de los ejercicios de la lección5)
+- datos_pair4.csv (resultado de los ejercicios de la lección 4)
+- datos_pair5.csv (resultado de los ejercicios de la lección 5)
 - Data:
     En esta carpeta se encuentran los archivos utilizados para la realización de los ejercicios:
     - medallas.csv
