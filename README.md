@@ -1,13 +1,21 @@
 # Pair-Programming - Modulo 3 - Sprint1 - Numpy, Pandas- InésYBeatriz
 
-Repositorio de Pair Programming del Módulo 3, Sprint 1
+## INDICE
+1. [Introducción](#1-introducción)
+2. [Descripción General](#2-descripción)
+3. [Preguntas](#3-preguntas)
+4. [Autoría](#4-autoría)
+
+
+
+## 1. Introducción
 
 ¡Bienvenido al repositorio de Pair Programming del Módulo 3, Sprint 1 sobre Numpy y Pandas de Adalab! Aquí encontrarás ejercicios realizados en Jupyter Notebook durante sesiones de programación en pareja. Desde la introducción hasta la gestión de nulos, este repositorio cubre una gran variedad de temas en programación, junto con ejercicios prácticos y soluciones.
 
-Introducción
 En este repositorio encontrarás ejercicios de programación en pareja realizados durante el Módulo 3, Sprint 1 del bootcamp de Data Analytics de Adalab. Cubrimos una variedad de temas importantes en el aprendizaje de programación, con un enfoque específico en NumPy y Pandas.
 
-Descripción General
+## 2. Descripción General
+
 El temario realizado en el Módulo 3 está organizado en dos secciones, cada una dedicada a una biblioteca o tecnología particular:
 
 -NumPy
@@ -41,10 +49,12 @@ Lecciones y ejercicios:
     - world-data-2023_part1.csv
     - world-data-2023_part2.csv
 
-Preguntas y Respuestas
+## 3. Preguntas
+
 Si tienes preguntas sobre el contenido de este repositorio o sobre las tecnologías cubiertas, no dudes en contactarnos.
 
-Autoría
+## 4. Autoría
+
 Estos ejercicios los han realizado Beatriz Sánchez Reguera e Inés Arano Aguirregomezcorta 
 
 Agradecemos a los profesores su dedicación y apoyo en el aprendizaje de programación.
